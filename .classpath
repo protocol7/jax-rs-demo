@@ -1,9 +1,0 @@
-<classpath>
-  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
-  <classpathentry kind="output" path="target/classes"/>
-  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar"/>
-  <classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.0.3/jersey-core-1.0.3.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.0.3/jersey-server-1.0.3.jar"/>
-  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-</classpath>
