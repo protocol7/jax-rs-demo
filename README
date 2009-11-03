@@ -1,1 +1,0 @@
-wget --header="Accept: text/calendar" http://localhost:8080/report/nikl
